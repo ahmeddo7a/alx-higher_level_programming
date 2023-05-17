@@ -1,1 +1,1 @@
-# This project is for learning if else and loops in python
+# This Project is for learning data structures 
